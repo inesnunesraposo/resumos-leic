@@ -7,7 +7,7 @@ type: topLevelPage
 # Sistemas Distribuídos
 
 > Aprender os conceitos e tecnologias fundamentais para desenvolver aplicações distribuídas que possam
-> garantir requisitos não funcionais como a reconfigurabilidade, a segurança, a tolerância a faltas e a
+> garantir requisitos não funcionais, como a reconfigurabilidade, a segurança, a tolerância a faltas e a
 > escalabilidade. Adquirir conhecimentos que permitam desenvolver uma aplicação com uma arquitectura
 > distribuída. Programar aplicações distribuídas com chamadas remotas e serviços de nomes distribuídos.
 > Analisar requisitos de fiabilidade e disponibilidade, e introdução de mecanismos de tolerância a faltas.
