@@ -48,7 +48,7 @@ em particular:
 
 - Os _acknowledgements_ são redundantes, uma vez que os pedidos são seguidos por
   respostas
-- Estabelecer uma conexão envolve dois pares extra de mensagens para além do par
+- Estabelecer uma conexão envolve dois pares extra de mensagens, para além do par
   necessário (pedido e resposta)
 - O controlo de fluxo é redundante para a maioria das invocações, visto que usam
   argumentos e resultados pequenos
